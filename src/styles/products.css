@@ -1,0 +1,13 @@
+.productRender{
+    display: grid;
+
+}
+.productAmount{
+    list-style-type: none;
+}
+.productAmount li{
+    margin-right: 1rem;
+    display: inline-flex;
+}
+
+

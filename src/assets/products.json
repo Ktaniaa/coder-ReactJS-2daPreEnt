@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Mens Casual Premium Slim Fit T-Shirts",
+        "price": 22.3,
+        "description": "Slim-fitting style, lightweight & soft fabric for comfortable wearing.",
+        "category": "men's clothing",
+        "image": "https://placehold.co/300x300?text=T-Shirt+1",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 2,
+        "title": "Mens Casual Slim Fit T-Shirt",
+        "price": 20.99,
+        "description": "Stylish t-shirt made from 100% cotton, perfect for casual wear.",
+        "category": "men's clothing",
+        "image": "https://placehold.co/300x300?text=T-Shirt+2",
+        "rating": {
+            "rate": 4.2,
+            "count": 150
+        }
+    },
+    {
+        "id": 3,
+        "title": "Women’s Slim Fit T-Shirt",
+        "price": 19.99,
+        "description": "Stylish t-shirt for women with a slim fit design.",
+        "category": "women's clothing",
+        "image": "https://placehold.co/300x300?text=T-Shirt+3",
+        "rating": {
+            "rate": 4.5,
+            "count": 200
+        }
+    },
+    {
+        "id": 4,
+        "title": "Men's Vintage Watch",
+        "price": 35.99,
+        "description": "Classic design watch, perfect for any occasion.",
+        "category": "jewelery",
+        "image": "https://placehold.co/300x300?text=Watch+1",
+        "rating": {
+            "rate": 4.0,
+            "count": 85
+        }
+    },
+    {
+        "id": 5,
+        "title": "Women's Sports Jacket",
+        "price": 42.5,
+        "description": "Lightweight and breathable jacket, perfect for sports.",
+        "category": "women's clothing",
+        "image": "https://placehold.co/300x300?text=Jacket+1",
+        "rating": {
+            "rate": 4.7,
+            "count": 120
+        }
+    },
+    {
+        "id": 6,
+        "title": "Men's Casual Sneakers",
+        "price": 55.99,
+        "description": "Comfortable sneakers for everyday wear.",
+        "category": "men's clothing",
+        "image": "https://placehold.co/300x300?text=Sneakers+1",
+        "rating": {
+            "rate": 4.3,
+            "count": 90
+        }
+    },
+    {
+        "id": 7,
+        "title": "Wireless Bluetooth Headphones",
+        "price": 89.99,
+        "description": "High-quality sound and comfort with a sleek design.",
+        "category": "electronics",
+        "image": "https://placehold.co/300x300?text=Headphones+1",
+        "rating": {
+            "rate": 4.8,
+            "count": 300
+        }
+    },
+    {
+        "id": 8,
+        "title": "Men's Leather Wallet",
+        "price": 25.5,
+        "description": "A sleek leather wallet that combines functionality and style.",
+        "category": "men's clothing",
+        "image": "https://placehold.co/300x300?text=Wallet+1",
+        "rating": {
+            "rate": 4.5,
+            "count": 160
+        }
+    },
+    {
+        "id": 9,
+        "title": "Portable Charger",
+        "price": 29.99,
+        "description": "Stay charged on the go with this portable charger.",
+        "category": "electronics",
+        "image": "https://placehold.co/300x300?text=Charger+1",
+        "rating": {
+            "rate": 4.6,
+            "count": 250
+        }
+    },
+    {
+        "id": 10,
+        "title": "Fitness Tracker",
+        "price": 49.99,
+        "description": "Monitor your fitness goals with this fitness tracker.",
+        "category": "electronics",
+        "image": "https://placehold.co/300x300?text=Tracker+1",
+        "rating": {
+            "rate": 4.4,
+            "count": 180
+        }
+    },
+    {
+        "id": 11,
+        "title": "Stylish Sunglasses",
+        "price": 19.99,
+        "description": "Protect your eyes with these stylish sunglasses.",
+        "category": "women's clothing",
+        "image": "https://placehold.co/300x300?text=Sunglasses+1",
+        "rating": {
+            "rate": 4.2,
+            "count": 110
+        }
+    },
+    {
+        "id": 12,
+        "title": "Backpack for Travel",
+        "price": 45.99,
+        "description": "Spacious and durable backpack for all your travel needs.",
+        "category": "men's clothing",
+        "image": "https://placehold.co/300x300?text=Backpack+1",
+        "rating": {
+            "rate": 4.5,
+            "count": 130
+        }
+    },
+    {
+        "id": 13,
+        "title": "Women's Handbag",
+        "price": 60.0,
+        "description": "Elegant handbag that complements any outfit.",
+        "category": "women's clothing",
+        "image": "https://placehold.co/300x300?text=Handbag+1",
+        "rating": {
+            "rate": 4.3,
+            "count": 140
+        }
+    },
+    {
+        "id": 14,
+        "title": "Men's Hoodie",
+        "price": 34.99,
+        "description": "Cozy and stylish hoodie for chilly days.",
+        "category": "men's clothing",
+        "image": "https://placehold.co/300x300?text=Hoodie+1",
+        "rating": {
+            "rate": 4.5,
+            "count": 170
+        }
+    },
+    {
+        "id": 15,
+        "title": "Women’s Athletic Shoes",
+        "price": 54.99,
+        "description": "Comfortable athletic shoes designed for running.",
+        "category": "women's clothing",
+        "image": "https://placehold.co/300x300?text=Athletic+Shoes+1",
+        "rating": {
+            "rate": 4.6,
+            "count": 220
+        }
+    }
+]
